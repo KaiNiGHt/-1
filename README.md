@@ -17,6 +17,6 @@
 > 
 >  잘못된 화장은 신체에 악영향을 미칠 수 있다.
 ### 자료
-[학생 화장의 악영향 : 구글 학술자료](https://scholar.google.co.kr/scholar?q=%ED%95%99%EC%83%9D+%ED%99%94%EC%9E%A5%EC%9D%98+%EC%95%85%EC%98%81%ED%96%A5&hl=ko&as_sdt=0&as_vis=1&oi=scholart)
-
-[10대들의 화장, 이대로 괜찮을까.. : 중앙일보](https://www.joongang.co.kr/article/21835397#home)
+> [학생 화장의 악영향 : 구글 학술자료](https://scholar.google.co.kr/scholar?q=%ED%95%99%EC%83%9D+%ED%99%94%EC%9E%A5%EC%9D%98+%EC%95%85%EC%98%81%ED%96%A5&hl=ko&as_sdt=0&as_vis=1&oi=scholart)
+> 
+> [10대들의 화장, 이대로 괜찮을까.. : 중앙일보](https://www.joongang.co.kr/article/21835397#home)
